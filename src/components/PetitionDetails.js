@@ -1,6 +1,5 @@
 import axios from 'axios';
 
-backchodi kiya 
 
 const PetitionDetails = ({ petitionId }) => {
   const [petition, setPetition] = useState(null);
